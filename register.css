@@ -1,0 +1,83 @@
+#contain {
+	width: 400px;
+	height: 400px;
+	background: #bfbaba;
+	top: 41%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.75);
+}
+#name1 {
+	padding: 10px 30px;
+	width: 100px;
+	position: absolute;
+	top: 100px;
+	left: 34px;
+}
+#pass {
+	padding: 10px 30px;
+	width: 100px;
+	position: absolute;
+	top: 100px;
+	left: 198px;
+}
+#email {
+	padding: 10px 30px;
+	width: 264px;
+	position: absolute;
+	top: 160px;
+	left: 34px;
+}
+#pass1 {
+	padding: 10px 30px;
+	width: 264px;
+	position: absolute;
+	top: 220px;
+	left: 34px;
+}
+#cpsw {
+	padding: 10px 30px;
+	width: 264px;
+	position: absolute;
+	top: 280px;
+	left: 34px;
+}
+hr {
+	background-color: #403d3c;
+	height: 3px;
+	margin-top: 250px;
+	width: 220px;
+}
+#subm {
+	width: 150px;
+	height: 50px;
+	border: 0;
+	background-color: #ff4517;
+	position: absolute;
+	top: 430px;
+	left: 126px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+#marg {
+	position: absolute;
+	top: 490px;
+	left: 76px;
+}
+#box {
+	width: 300px;
+	background-color: #f2e9e9;
+	height: 300px;
+}
+#scs {
+	position: relative;
+	top: 60px;
+}
+#log {
+	position: relative;
+	top: 30px;
+}
